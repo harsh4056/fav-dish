@@ -167,7 +167,7 @@ class AddUpdateDishActivity : AppCompatActivity(), View.OnClickListener {
                         }
                         else -> {
 
-                            // TODO Step 8: Show the Toast Message for now that you dish entry is valid.
+
                             // START
                             Toast.makeText(
                                 this@AddUpdateDishActivity,
